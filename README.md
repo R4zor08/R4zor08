@@ -1,51 +1,53 @@
 <div align="center">
 
-# Ryan Llanto
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:06B6D4&text=Ryan%20Llanto&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20•%20System%20Builder%20•%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
-### Full-Stack Developer • System Builder • Problem Solver
+<br/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+smart+and+scalable+systems;Creating+clean+and+functional+digital+solutions;Passionate+about+full-stack+development;Turning+ideas+into+real-world+software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+modern+and+scalable+digital+systems;Designing+solutions+that+are+clean%2C+practical%2C+and+impactful;Focused+on+full-stack+development+and+smart+applications;Turning+ideas+into+real-world+software" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Specialty-System%20Design-111827?style=for-the-badge&logo=windows-terminal&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Passion-Smart%20Applications-1E293B?style=for-the-badge&logo=vercel&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Location-Philippines-0B1120?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=windows-terminal&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Smart%20Applications-1E293B?style=for-the-badge&logo=vercel&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Philippines-0B1120?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" />
 </p>
 
-<br>
+</div>
 
-<table>
+---
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 ## About Me
 
-I am a developer who enjoys building practical, scalable, and meaningful systems. My focus is on full-stack development, smart applications, and creating digital solutions that improve real-world experiences.
+I am a full-stack developer passionate about building modern, reliable, and meaningful software. I enjoy creating systems that are not only functional, but also cleanly designed, user-focused, and ready for real-world use.
 
-I value clean design, solid functionality, and technology that is both useful and impactful.
+My interest lies in turning ideas into polished digital products through thoughtful development, strong system design, and practical problem-solving.
 
-## Tech Stack
+## Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,git,github,vscode,flutter,java,cpp,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode" />
 </p>
 
-## Connect With Me
+## Connect
 
 <p>
   <a href="mailto:ryanllanto44l@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## GitHub Insights
 
@@ -67,26 +69,26 @@ I value clean design, solid functionality, and technology that is both useful an
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
 ### NEMSUTALKS
-A communication and messaging platform designed for students, with features that support engagement, connection, and academic communication.
+A student-focused communication platform built to support messaging, engagement, and stronger academic interaction through a connected digital environment.
 
 </td>
 <td width="33%" valign="top">
 
 ### FIREGUARD3
-A smart fire monitoring and alert system focused on safety, early detection, and real-world emergency awareness.
+A smart fire monitoring and alert system designed for early detection, safety awareness, and faster emergency response in real-world settings.
 
 </td>
 <td width="33%" valign="top">
 
 ### NEMSU Fun Run System
-A full-stack registration and event management platform with authentication, database integration, and efficient event workflow handling.
+A full-stack event registration and management system with authentication, database integration, and smooth workflow handling for organized event operations.
 
 </td>
 </tr>
@@ -94,8 +96,9 @@ A full-stack registration and event management platform with authentication, dat
 
 ---
 
-### Developer Mindset
+<div align="center">
 
-`Create • Explore • Expand • Conquer`
+## Developer Philosophy
 
-</div>
+```text
+Build with purpose. Design with clarity. Solve with impact.
