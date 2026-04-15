@@ -53,16 +53,12 @@ It includes authentication, database integration, and backend logic for handling
 
 ---
 
-## GitHub Analytics
+## GitHub Insights
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## Most Used Languages
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&theme=tokyonight&hide_border=true" />
