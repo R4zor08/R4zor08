@@ -23,19 +23,19 @@
 <tr>
 <td width="52%" valign="top">
 
-## About Me
+## Profile
 
-I am a full-stack developer passionate about building modern, reliable, and meaningful software. I enjoy creating systems that are not only functional, but also cleanly designed, user-focused, and ready for real-world use.
+I am a full-stack developer passionate about building modern, reliable, and meaningful software. I enjoy creating systems that are not only functional, but also refined in design, user-centered in experience, and practical in real-world use.
 
-My interest lies in turning ideas into polished digital products through thoughtful development, strong system design, and practical problem-solving.
+My work is driven by a commitment to turning ideas into polished digital products through thoughtful engineering, strong system architecture, and purposeful problem-solving.
 
-## Core Stack
+## Core Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode" />
 </p>
 
-## Connect
+## Contact
 
 <p>
   <a href="mailto:ryanllanto44l@gmail.com">
@@ -49,7 +49,7 @@ My interest lies in turning ideas into polished digital products through thought
 </td>
 <td width="48%" valign="top">
 
-## GitHub Insights
+## Insights
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -69,26 +69,26 @@ My interest lies in turning ideas into polished digital products through thought
 
 ---
 
-## Selected Projects
+## Signature Projects
 
 <table align="center">
 <tr>
 <td width="33%" valign="top">
 
 ### NEMSUTALKS
-A student-focused communication platform built to support messaging, engagement, and stronger academic interaction through a connected digital environment.
+A student communication platform designed to support messaging, collaboration, and stronger academic interaction through a connected digital environment.
 
 </td>
 <td width="33%" valign="top">
 
 ### FIREGUARD3
-A smart fire monitoring and alert system designed for early detection, safety awareness, and faster emergency response in real-world settings.
+A smart fire monitoring and alert system developed for early detection, safety awareness, and faster emergency response in practical settings.
 
 </td>
 <td width="33%" valign="top">
 
 ### NEMSU Fun Run System
-A full-stack event registration and management system with authentication, database integration, and smooth workflow handling for organized event operations.
+A full-stack event registration and management system featuring authentication, database integration, and efficient workflow handling for organized event operations.
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ A full-stack event registration and management system with authentication, datab
 
 <div align="center">
 
-## Developer Philosophy
+## Principles
 
 ```text
 Build with purpose. Design with clarity. Solve with impact.
