@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,35:111827,70:0F172A,100:06B6D4&text=Ryan%20Llanto&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20•%20System%20Builder%20•%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0B1120,50:111827,75:0F172A,100:0891B2&text=Ryan%20Llanto&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Systems%20Designer%20•%20Digital%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+modern+and+scalable+digital+systems;Crafting+clean%2C+practical%2C+and+impactful+software;Focused+on+full-stack+development+and+smart+applications;Turning+ideas+into+real-world+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=920&lines=Engineering+modern+digital+experiences;Designing+scalable+systems+with+precision;Building+software+that+solves+real-world+problems;Turning+vision+into+refined+technology" />
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Full--Stack%20Development-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/System%20Architecture-111827?style=for-the-badge&logo=windows-terminal&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Smart%20Applications-1E293B?style=for-the-badge&logo=vercel&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Philippines-0B1120?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Full--Stack%20Engineering-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=databricks&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Smart%20Applications-0F172A?style=for-the-badge&logo=vercel&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Based%20in%20the%20Philippines-07111F?style=for-the-badge&logo=googlemaps&logoColor=67E8F9" />
 
 </div>
 
@@ -22,48 +22,48 @@
 <tr>
 <td width="52%" valign="top">
 
-## Profile
+## About Me
 
-I am a full-stack developer dedicated to building modern, reliable, and meaningful software. I enjoy creating systems that combine strong functionality, clean design, and real-world value.
+I am a full-stack developer focused on crafting modern, dependable, and high-impact software solutions. My work blends clean engineering, thoughtful interface design, and practical functionality to create systems that are both visually refined and technically strong.
 
-My work is centered on thoughtful engineering, practical system design, and transforming ideas into polished digital products that people can actually use.
+I enjoy building products that go beyond working code — systems that are scalable, purposeful, and designed to deliver real value in real environments.
 
 <br>
 
-## Core Technologies
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode&perline=9" />
 </p>
 
 <br>
 
-## Contact
+## Professional Reach
 
 <p>
   <a href="mailto:ryanllanto44l@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=67E8F9" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=67E8F9" />
   </a>
 </p>
 
 </td>
 <td width="48%" valign="top">
 
-## Insights
+## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=67E8F9&icon_color=67E8F9&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&theme=tokyonight&hide_border=true&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&theme=tokyonight&hide_border=true&title_color=67E8F9&text_color=E5E7EB" />
 </p>
 
 </td>
@@ -72,26 +72,26 @@ My work is centered on thoughtful engineering, practical system design, and tran
 
 ---
 
-## Signature Projects
+## Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top">
 
 ### NEMSUTALKS
-A student communication platform designed to support messaging, collaboration, and stronger academic interaction through a connected digital environment.
+A communication platform built to strengthen student interaction, streamline messaging, and support a more connected academic environment.
 
 </td>
 <td width="33%" valign="top">
 
 ### FIREGUARD3
-A smart fire monitoring and alert system developed for early detection, safety awareness, and faster emergency response in practical environments.
+An intelligent fire monitoring and alert system designed for early detection, safety awareness, and faster emergency response in real-world settings.
 
 </td>
 <td width="33%" valign="top">
 
 ### NEMSU Fun Run System
-A full-stack event registration and management system with authentication, database integration, and efficient workflow handling for organized event operations.
+A full-stack event registration and management platform with authentication, database integration, and organized workflow handling for seamless operations.
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ A full-stack event registration and management system with authentication, datab
 
 <div align="center">
 
-## Principles
+## Philosophy
 
 ```text
-Build with purpose. Design with clarity. Solve with impact.
+Build with intention. Design with precision. Deliver with impact.
