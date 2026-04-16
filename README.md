@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,laravel,flutter,flask,dotnet,cpp,postgres,java,django,git,github,mysql,sqlite,bootstrap&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,laravel,flutter,dotnet,postgres,django,git,github&perline=6" />
 
 <br/><br/>
 
