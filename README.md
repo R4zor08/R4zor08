@@ -1,107 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0B1120,50:111827,75:0F172A,100:0891B2&text=Ryan%20Llanto&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Systems%20Designer%20•%20Digital%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1A0000,25:3B0A0A,50:5C1111,75:8B1E1E,100:B91C1C&text=Ryan%20Llanto&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Chief%20Technology%20Officer%20•%20Systems%20Architect%20•%20Digital%20Innovator&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=920&lines=Engineering+modern+digital+experiences;Designing+scalable+systems+with+precision;Building+software+that+solves+real-world+problems;Turning+vision+into+refined+technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Architecting+scalable+systems;Leading+technology+with+vision;Building+products+that+create+impact;Turning+ideas+into+intelligent+solutions" />
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Full--Stack%20Engineering-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=databricks&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/Smart%20Applications-0F172A?style=for-the-badge&logo=vercel&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/Based%20in%20the%20Philippines-07111F?style=for-the-badge&logo=googlemaps&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/ROLE-CTO-3B0A0A?style=for-the-badge&logo=ghost&logoColor=FFFFFF&labelColor=000000" />
+<img src="https://img.shields.io/badge/FOCUS-System%20Architecture-5C1111?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=000000" />
+<img src="https://img.shields.io/badge/SPECIALTY-Scalable%20Systems-6B1111?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" />
+<img src="https://img.shields.io/badge/BASED%20IN-Philippines-8B1E1E?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF&labelColor=000000" />
 
 </div>
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="52%" valign="top">
+## Executive Profile
 
-## About Me
+I serve as a **Chief Technology Officer**, leading the design and development of scalable, intelligent, and high-impact digital systems. My role goes beyond writing code — I architect solutions, guide technical direction, and transform ideas into production-ready platforms.
 
-I am a full-stack developer focused on crafting modern, dependable, and high-impact software solutions. My work blends clean engineering, thoughtful interface design, and practical functionality to create systems that are both visually refined and technically strong.
-
-I enjoy building products that go beyond working code — systems that are scalable, purposeful, and designed to deliver real value in real environments.
-
-<br>
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode&perline=9" />
-</p>
-
-<br>
-
-## Professional Reach
-
-<p>
-  <a href="mailto:ryanllanto44l@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=67E8F9" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=67E8F9" />
-  </a>
-</p>
-
-</td>
-<td width="48%" valign="top">
-
-## GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=67E8F9&icon_color=67E8F9&text_color=E5E7EB" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&theme=tokyonight&hide_border=true&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&theme=tokyonight&hide_border=true&title_color=67E8F9&text_color=E5E7EB" />
-</p>
-
-</td>
-</tr>
-</table>
+I specialize in building **end-to-end systems** that integrate software engineering, system architecture, and user-centric design — ensuring every product is not only functional, but also strategic, scalable, and future-ready.
 
 ---
 
-## Featured Projects
+## Core Expertise
 
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### NEMSUTALKS
-A communication platform built to strengthen student interaction, streamline messaging, and support a more connected academic environment.
-
-</td>
-<td width="33%" valign="top">
-
-### FIREGUARD3
-An intelligent fire monitoring and alert system designed for early detection, safety awareness, and faster emergency response in real-world settings.
-
-</td>
-<td width="33%" valign="top">
-
-### NEMSU Fun Run System
-A full-stack event registration and management platform with authentication, database integration, and organized workflow handling for seamless operations.
-
-</td>
-</tr>
-</table>
+- System Architecture & Technical Strategy  
+- Full-Stack Development (Web & Mobile)  
+- AI-Integrated Applications & Smart Systems  
+- Scalable Platform Engineering  
+- Product Development & Innovation Leadership  
 
 ---
+
+## Technology Stack
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode&perline=6" />
+
+</div>
+
+---
+
+## GitHub Insights
+
+<div align="center">
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=7F1D1D&icon_color=7F1D1D&text_color=111827&bg_color=FFFFFF" 
+    media="(prefers-color-scheme: light)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&title_color=FCA5A5&icon_color=FCA5A5&text_color=F9FAFB&bg_color=0D0D0D" 
+    media="(prefers-color-scheme: dark)" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true" />
+</picture>
+
+<br/>
+
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=default&ring=7F1D1D&fire=7F1D1D&currStreakLabel=7F1D1D&background=FFFFFF" 
+    media="(prefers-color-scheme: light)" />
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=tokyonight&ring=FCA5A5&fire=FCA5A5&currStreakLabel=FCA5A5&background=0D0D0D" 
+    media="(prefers-color-scheme: dark)" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true" />
+</picture>
+
+</div>
+
+---
+
+## Strategic Projects
+
+### RobotX Studio *(Flagship Platform)*
+A unified maker platform that integrates AI, hardware design, simulation, and deployment into a single intelligent workspace for building robotics and automation systems.
+
+### FIREGUARD3
+An AI-powered fire detection and alert system designed to improve safety, accelerate response time, and enhance real-world emergency monitoring.
+
+### NEMSUTALKS
+A scalable communication platform engineered to enhance collaboration, messaging, and digital interaction within academic environments.
+
+---
+
+## Current Focus
+
+- Building **next-generation AI-powered platforms**
+- Advancing **IoT and intelligent system integration**
+- Scaling **startup-grade architectures**
+- Leading **product-driven innovation**
+
+---
+
 ## Philosophy
 
+<div align="center">
+
 ```text
-Build with intention. Design with precision. Deliver with impact.
+Build systems that scale. Lead with vision. Deliver technology that matters.
