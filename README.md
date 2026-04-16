@@ -78,8 +78,8 @@ I specialize in building **end-to-end systems** that integrate software engineer
 
 ## Strategic Projects
 
-### RobotX Studio *(Flagship Platform)*
-A unified maker platform that integrates AI, hardware design, simulation, and deployment into a single intelligent workspace for building robotics and automation systems.
+### NEMSU Fun Run System
+A full-stack event registration and management platform developed to streamline participant onboarding, authentication, scheduling, and operational workflow for organized and efficient event execution.
 
 ### FIREGUARD3
 An AI-powered fire detection and alert system designed to improve safety, accelerate response time, and enhance real-world emergency monitoring.
@@ -91,8 +91,8 @@ A scalable communication platform engineered to enhance collaboration, messaging
 
 ## Current Focus
 
-- Building **next-generation AI-powered platforms**
-- Advancing **IoT and intelligent system integration**
+- Building **next-generation digital platforms**
+- Advancing **smart systems and real-world applications**
 - Scaling **startup-grade architectures**
 - Leading **product-driven innovation**
 
