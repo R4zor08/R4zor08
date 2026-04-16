@@ -1,46 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1A0000,25:3B0A0A,50:5C1111,75:8B1E1E,100:B91C1C&text=Ryan%20Llanto&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Chief%20Technology%20Officer%20•%20Systems%20Architect%20•%20Digital%20Innovator&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:140000,35:3B0A0A,70:7F1D1D,100:B91C1C&text=Ryan%20Llanto&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=CTO%20•%20Systems%20Architect%20•%20Digital%20Innovator&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Architecting+scalable+systems;Leading+technology+with+vision;Building+products+that+create+impact;Turning+ideas+into+intelligent+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Architecting+scalable+systems;Building+intelligent+digital+products;Leading+technology+with+vision" />
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-CTO-3B0A0A?style=for-the-badge&logo=ghost&logoColor=FFFFFF&labelColor=000000" />
-<img src="https://img.shields.io/badge/FOCUS-System%20Architecture-5C1111?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=000000" />
-<img src="https://img.shields.io/badge/SPECIALTY-Scalable%20Systems-6B1111?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" />
-<img src="https://img.shields.io/badge/BASED%20IN-Philippines-8B1E1E?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF&labelColor=000000" />
+<img src="https://img.shields.io/badge/CTO-1F0A0A?style=for-the-badge&logo=ghost&logoColor=FFFFFF&labelColor=000000" />
+<img src="https://img.shields.io/badge/System%20Architecture-5B1111?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Scalable%20Systems-8B1E1E?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" />
 
 </div>
 
 ---
 
-## Executive Profile
+## Profile
 
-I serve as a **Chief Technology Officer**, leading the design and development of scalable, intelligent, and high-impact digital systems. My role goes beyond writing code — I architect solutions, guide technical direction, and transform ideas into production-ready platforms.
-
-I specialize in building **end-to-end systems** that integrate software engineering, system architecture, and user-centric design — ensuring every product is not only functional, but also strategic, scalable, and future-ready.
+I’m a **Chief Technology Officer** focused on building scalable platforms, intelligent systems, and high-impact digital products. I work across architecture, engineering, and product strategy to turn ideas into polished, production-ready solutions.
 
 ---
 
-## Core Expertise
+## Expertise
 
-- System Architecture & Technical Strategy  
-- Full-Stack Development (Web & Mobile)  
-- AI-Integrated Applications & Smart Systems  
+- System Architecture  
+- Full-Stack Development  
+- AI-Integrated Applications  
 - Scalable Platform Engineering  
-- Product Development & Innovation Leadership  
+- Product & Technical Leadership  
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,typescript,nodejs,laravel,django,mysql,sqlite,flutter,java,cpp,cs,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,react,tailwind,typescript,nodejs,laravel,django,mysql,flutter,java,cpp,git,github,vscode&perline=7" />
 
 </div>
 
@@ -57,10 +54,8 @@ I specialize in building **end-to-end systems** that integrate software engineer
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&title_color=FCA5A5&icon_color=FCA5A5&text_color=F9FAFB&bg_color=0D0D0D" 
     media="(prefers-color-scheme: dark)" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true" />
 </picture>
-
-<br/>
 
 <picture>
   <source 
@@ -69,38 +64,37 @@ I specialize in building **end-to-end systems** that integrate software engineer
   <source 
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=tokyonight&ring=FCA5A5&fire=FCA5A5&currStreakLabel=FCA5A5&background=0D0D0D" 
     media="(prefers-color-scheme: dark)" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true" />
 </picture>
 
 </div>
 
 ---
 
-## Strategic Projects
-
-### NEMSU Fun Run System
-A full-stack event registration and management platform developed to streamline participant onboarding, authentication, scheduling, and operational workflow for organized and efficient event execution.
+## Selected Projects
 
 ### FIREGUARD3
-An AI-powered fire detection and alert system designed to improve safety, accelerate response time, and enhance real-world emergency monitoring.
+AI-powered fire detection and alert system for faster emergency response and safer monitoring.
+
+### NEMSU Fun Run System
+Event registration and management platform built for smooth participant onboarding and operations.
 
 ### NEMSUTALKS
-A scalable communication platform engineered to enhance collaboration, messaging, and digital interaction within academic environments.
+A communication platform designed for collaboration and digital engagement in academic environments.
 
 ---
 
-## Current Focus
+## Focus
 
-- Building **next-generation digital platforms**
-- Advancing **smart systems and real-world applications**
-- Scaling **startup-grade architectures**
-- Leading **product-driven innovation**
+- Smart digital systems  
+- Scalable product architecture  
+- AI-driven applications  
+- Startup-grade innovation  
 
 ---
-
-## Philosophy
 
 <div align="center">
 
-```text
-Build systems that scale. Lead with vision. Deliver technology that matters.
+`Build with purpose. Architect for scale. Deliver real impact.`
+
+</div>
