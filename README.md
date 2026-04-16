@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,40:120606,80:3B0A0A,100:6E1111&text=Ryan%20Llanto&fontSize=40&fontColor=F9FAFB&fontAlignY=45&desc=Chief%20Technology%20Officer&descAlignY=70&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,40:120606,80:3B0A0A,100:6E1111&text=Ryan%20Llanto&fontSize=40&fontColor=F9FAFB&fontAlignY=45&desc=CTO%20•%20Founder%20Mindset%20•%20Systems%20Architect&descAlignY=70&descSize=15" width="100%" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,laravel,flutter,flask,asp.net,c++,postgres,java,django,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,laravel,flutter,flask,dotnet,cpp,postgres,java,django,git,github,mysql,sqlite,bootstrap&perline=8" />
 
 <br/><br/>
 
@@ -30,6 +30,6 @@
 
 <br/><br/>
 
-`Create - Explore - Expand - Conquer`
+`Built for vision. Engineered for scale.`
 
 </div>
