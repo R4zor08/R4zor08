@@ -6,16 +6,10 @@
     alt="Ryan Llanto banner"
   />
 
-  <br/>
-  <br/>
-
   <img src="https://img.shields.io/badge/Role-CTO-111827?style=for-the-badge&logoColor=white" alt="CTO Badge" />
   <img src="https://img.shields.io/badge/Focus-Systems%20Architecture-1F2937?style=for-the-badge&logoColor=white" alt="Architecture Badge" />
   <img src="https://img.shields.io/badge/Mindset-Build%20for%20Scale-7F1D1D?style=for-the-badge&logoColor=white" alt="Scale Badge" />
   <img src="https://img.shields.io/badge/Mode-Innovation-991B1B?style=for-the-badge&logoColor=white" alt="Innovation Badge" />
-
-  <br/>
-  <br/>
 
   <p>
     <b>Designing modern systems, scalable platforms, and high-impact digital experiences.</b>
@@ -62,9 +56,6 @@
       alt="GitHub streak stats"
     />
   </picture>
-
-  <br/>
-  <br/>
 
   <picture>
     <source
