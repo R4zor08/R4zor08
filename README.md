@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1E293B,70:7F1D1D,100:991B1B&text=Ryan%20Llanto&fontSize=42&fontColor=F8FAFC&fontAlignY=40&desc=Vice CTO%20•%20Founder%20Mindset%20•%20Systems%20Architect&descAlignY=62&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1E293B,70:7F1D1D,100:991B1B&text=Ryan%20Llanto&fontSize=42&fontColor=F8FAFC&fontAlignY=40&desc=Vice_CTO%20•%20Founder%20Mindset%20•%20Systems%20Architect&descAlignY=62&descSize=16"
     width="100%"
     alt="Ryan Llanto banner"
   />
