@@ -1,81 +1,79 @@
 <div align="center">
 
+  <!-- Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1E293B,70:7F1D1D,100:991B1B&text=Ryan%20Llanto&fontSize=42&fontColor=F8FAFC&fontAlignY=40&desc=V-CTO%20•%20Founder%20Mindset%20•%20Systems%20Architect&descAlignY=62&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0F172A,65:7F1D1D,100:B91C1C&text=Ryan%20Llanto&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Builder%20of%20Scalable%20Platforms&descAlignY=60&descSize=17"
     width="100%"
-    alt="Ryan Llanto banner"
   />
 
-  <img src="https://img.shields.io/badge/Role-V-CTO-111827?style=for-the-badge&logoColor=white" alt="Vice CTO Badge" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20Architecture-1F2937?style=for-the-badge&logoColor=white" alt="Architecture Badge" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20for%20Scale-7F1D1D?style=for-the-badge&logoColor=white" alt="Scale Badge" />
-  <img src="https://img.shields.io/badge/Mode-Innovation-991B1B?style=for-the-badge&logoColor=white" alt="Innovation Badge" />
+  <br/>
 
+  <!-- Role Identity -->
+  <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discipline-System%20Architecture-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-B91C1C?style=for-the-badge"/>
+
+  <br/><br/>
+
+  <!-- Tagline -->
   <p>
-    <b>Designing modern systems, scalable platforms, and high-impact digital experiences.</b>
+    <b>
+      Architecting scalable systems, leading technical vision, and building products that are designed to last.
+    </b>
   </p>
 
   <br/>
 
+  <!-- Tech Stack (clean spacing) -->
   <img
     src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,laravel,flutter,dotnet,postgres,django,git,github&perline=6"
-    alt="Tech stack icons"
   />
 
-  <br/>
-  <br/>
+  <br/><br/>
 
+  <!-- Stats Section -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=F8FAFC&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=E2E8F0&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=BE123C&icon_color=BE123C&text_color=334155&bg_color=FFFFFF"
-      media="(prefers-color-scheme: light)"
     />
     <img
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github"
-      alt="GitHub stats"
     />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=CBD5E1&background=00000000"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
       media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=default&ring=BE123C&fire=BE123C&currStreakLabel=0F172A&sideLabels=334155&dates=64748B&background=FFFFFF"
-      media="(prefers-color-scheme: light)"
     />
     <img
       height="165"
       src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true"
-      alt="GitHub streak stats"
     />
   </picture>
 
+  <br/>
+
+  <!-- Activity Graph -->
   <picture>
     <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185"
       media="(prefers-color-scheme: dark)"
     />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-light&hide_border=true&area=true&color=BE123C&line=BE123C&point=E11D48"
-      media="(prefers-color-scheme: light)"
-    />
     <img
       width="95%"
       src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true"
-      alt="GitHub activity graph"
     />
   </picture>
 
-  <br/>
-  <br/>
+  <br/><br/>
 
-  <sub><b>Built for vision. Engineered for scale.</b></sub>
+  <!-- Footer Branding -->
+  <sub>
+    <b>Vice CTO • Engineering Vision • Scalable by Design</b>
+  </sub>
 
 </div>
