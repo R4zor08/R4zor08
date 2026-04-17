@@ -1,90 +1,68 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1E293B,70:7F1D1D,100:991B1B&text=Ryan%20Llanto&fontSize=42&fontColor=F8FAFC&fontAlignY=40&desc=CTO%20•%20Founder%20Mindset%20•%20Systems%20Architect&descAlignY=62&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,25:0F172A,55:1E293B,100:334155&text=Ryan%20Llanto&fontSize=44&fontColor=F8FAFC&fontAlignY=40&desc=CTO%20•%20Systems%20Architect%20•%20Future-Driven%20Builder&descAlignY=64&descSize=16"
     width="100%"
-    alt="Ryan Llanto banner"
+    alt="Ryan Llanto Banner"
   />
 
-  <br/>
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/Role-CTO-111827?style=for-the-badge&logoColor=white" alt="CTO Badge" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20Architecture-1F2937?style=for-the-badge&logoColor=white" alt="Architecture Badge" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20for%20Scale-7F1D1D?style=for-the-badge&logoColor=white" alt="Scale Badge" />
-  <img src="https://img.shields.io/badge/Mode-Innovation-991B1B?style=for-the-badge&logoColor=white" alt="Innovation Badge" />
+  <img src="https://img.shields.io/badge/ROLE-CTO-0F172A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20ARCHITECTURE-1E293B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MINDSET-INNOVATE%20AT%20SCALE-334155?style=for-the-badge&logoColor=white" />
 
-  <br/>
-  <br/>
+  <br/><br/>
 
-  <p>
-    <b>Designing modern systems, scalable platforms, and high-impact digital experiences.</b>
-  </p>
-
-  <br/>
+  <h3>Building scalable systems, intelligent products, and modern digital experiences.</h3>
 
   <img
     src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,laravel,flutter,dotnet,postgres,django,git,github&perline=6"
-    alt="Tech stack icons"
+    alt="Tech Stack"
   />
 
-  <br/>
-  <br/>
+  <br/><br/>
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=F8FAFC&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=BE123C&icon_color=BE123C&text_color=334155&bg_color=FFFFFF"
+      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=0F172A&icon_color=0EA5E9&text_color=334155&bg_color=FFFFFF"
       media="(prefers-color-scheme: light)"
     />
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github"
-      alt="GitHub stats"
-    />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true" />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=CBD5E1&background=00000000"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=default&ring=BE123C&fire=BE123C&currStreakLabel=0F172A&sideLabels=334155&dates=64748B&background=FFFFFF"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=default&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0F172A&sideLabels=334155&dates=64748B&background=FFFFFF"
       media="(prefers-color-scheme: light)"
     />
-    <img
-      height="165"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true"
-      alt="GitHub streak stats"
-    />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true" />
   </picture>
 
-  <br/>
-  <br/>
+  <br/><br/>
 
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=7DD3FC"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-light&hide_border=true&area=true&color=BE123C&line=BE123C&point=E11D48"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-light&hide_border=true&area=true&color=0EA5E9&line=0EA5E9&point=38BDF8"
       media="(prefers-color-scheme: light)"
     />
-    <img
-      width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true"
-      alt="GitHub activity graph"
-    />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true" />
   </picture>
 
-  <br/>
-  <br/>
+  <br/><br/>
 
-  <sub><b>Built for vision. Engineered for scale.</b></sub>
+  <sub><b>Engineered for tomorrow. Built with intent.</b></sub>
 
 </div>
