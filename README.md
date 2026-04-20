@@ -55,7 +55,7 @@
   </picture>
   <!-- Footer Branding -->
   <sub>
-    <b>Vice CTO • Engineering Vision • Scalable by Design</b>
+    <b>Create • Explore • Expand • Conquer</b>
   </sub>
 
 </div>
