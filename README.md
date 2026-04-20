@@ -55,7 +55,8 @@
   </picture>
   <!-- Footer Branding -->
   <sub>
-    <b>Create • Explore • Expand • Conquer</b>
+    <br>
+    Create • Explore • Expand • Conquer</b>
   </sub>
 
 </div>
