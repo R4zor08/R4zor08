@@ -13,7 +13,7 @@
   <!-- Tagline -->
   <p>
     <b>
-      Architecting scalable systems, leading technical vision, and building products that are designed to last.
+      Architecting scalable systems, leading technical vision, and building products that are designed to last and the end.
     </b>
   </p>
   <!-- Tech Stack (clean spacing) -->
