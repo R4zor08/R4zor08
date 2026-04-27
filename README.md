@@ -13,24 +13,6 @@
 <img src="https://img.shields.io/badge/FULL--STACK%20BUILDER-B91C1C?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20AUTOMATION-EF4444?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br><br>
-
-<!-- MINI INTRO CARD -->
-<table>
-<tr>
-<td align="center" width="100%">
-
-### ⚡ Architecting Digital Systems With Precision
-
-I design and build scalable platforms, intelligent applications, premium interfaces, and backend systems that are made for real-world performance.
-
-**System Architecture • Full-Stack Engineering • AI Integration • Cloud Deployment • Premium UI/UX**
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,35:7F1D1D,65:EF4444,100:020617" width="92%"/>
 <br>
