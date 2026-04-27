@@ -33,15 +33,12 @@ I design and build scalable platforms, intelligent applications, premium interfa
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,35:7F1D1D,65:EF4444,100:020617" width="92%"/>
-
 <br>
 
 <!-- TECH STACK -->
 <h2>🧠 Core Tech Arsenal</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"/>
-
-<br><br>
 
 <!-- SYSTEM SPECIALTIES -->
 <h2>🛠️ Engineering Specialties</h2>
@@ -53,11 +50,7 @@ I design and build scalable platforms, intelligent applications, premium interfa
 <img src="https://img.shields.io/badge/UI%2FUX%20Design-991B1B?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20Systems-450A0A?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,35:7F1D1D,65:EF4444,100:020617" width="92%"/>
-
-<br>
 
 <!-- STATS -->
 <h2>📊 GitHub Command Center</h2>
@@ -73,8 +66,6 @@ I design and build scalable platforms, intelligent applications, premium interfa
 </tr>
 </table>
 
-<br>
-
 <table>
 <tr>
 <td width="50%">
@@ -86,21 +77,10 @@ I design and build scalable platforms, intelligent applications, premium interfa
 </tr>
 </table>
 
-<br>
-
-<!-- TROPHIES -->
-<h2>🏆 Achievement Grid</h2>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=R4zor08&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
-
-<br><br>
-
 <!-- ACTIVITY -->
 <h2>🔥 Contribution Pulse</h2>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=redical&hide_border=true&area=true&color=F43F5E&line=EF4444&point=FB7185&bg_color=020617"/>
-
-<br><br>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,35:7F1D1D,65:EF4444,100:020617" width="92%"/>
@@ -108,9 +88,5 @@ I design and build scalable platforms, intelligent applications, premium interfa
 <h2>🌌 Build With Intent. Scale With Vision.</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=CBD5E1&center=true&vCenter=true&width=850&lines=Every+commit+is+a+step+toward+impact.;Every+system+should+be+clean%2C+scalable%2C+and+future-ready.;Create.+Explore.+Expand.+Conquer."/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:EF4444,40:B91C1C,75:0F172A,100:020617"/>
 
 </div>
