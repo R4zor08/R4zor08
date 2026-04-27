@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-B91C1C?style=for-the-badge"/>
 
-  <p>
-    <b>
-      Architecting scalable systems, leading technical vision, and building products designed to last.
-    </b>
-  </p>
-
   <h3>⚙️ Tech Stack</h3>
 
   <img
