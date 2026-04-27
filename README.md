@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=950&lines=Systems+Built+to+Scale.;Architecture+Engineered+for+Impact.;Premium+UI.+Powerful+Backend.+Clean+Code.;Build.+Breakthrough.+Conquer."/>
 
-<br><br>
-
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/VICE%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SYSTEMS%20ARCHITECT-7F1D1D?style=for-the-badge&logo=databricks&logoColor=white"/>
