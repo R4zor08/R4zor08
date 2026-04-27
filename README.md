@@ -38,10 +38,17 @@
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=E5E7EB&bg_color=00000000"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=radical&bg_color=020617&title_color=F43F5E&icon_color=FB7185&text_color=E5E7EB"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=FFFFFF&title_color=B91C1C&icon_color=EF4444&text_color=111827"/>
+</picture>
 </td>
+
 <td width="50%">
-<img width="100%" src="https://streak-stats.demolab.com?user=R4zor08&hide_border=true&background=00000000&ring=F43F5E&fire=EF4444&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&stroke=334155"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=R4zor08&hide_border=true&background=020617&ring=F43F5E&fire=EF4444&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&stroke=334155"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=R4zor08&hide_border=true&background=FFFFFF&ring=B91C1C&fire=EF4444&currStreakLabel=111827&sideLabels=374151&dates=6B7280&stroke=E5E7EB"/>
+</picture>
 </td>
 </tr>
 </table>
@@ -49,10 +56,17 @@
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&hide_border=true&theme=transparent&title_color=F43F5E&text_color=E5E7EB&bg_color=00000000"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&hide_border=true&theme=radical&bg_color=020617&title_color=F43F5E&text_color=E5E7EB"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4zor08&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF&title_color=B91C1C&text_color=111827"/>
+</picture>
 </td>
+
 <td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R4zor08&theme=radical&utcOffset=8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R4zor08&theme=radical&utcOffset=8"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R4zor08&theme=github&utcOffset=8"/>
+</picture>
 </td>
 </tr>
 </table>
@@ -60,8 +74,10 @@
 <!-- ACTIVITY -->
 <h2>🔥 Contribution Pulse</h2>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=redical&hide_border=true&area=true&color=F43F5E&line=EF4444&point=FB7185&bg_color=020617"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=redical&hide_border=true&area=true&color=F43F5E&line=EF4444&point=FB7185&bg_color=020617"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-light&hide_border=true&area=true&color=B91C1C&line=EF4444&point=7F1D1D&bg_color=FFFFFF"/>
+</picture>
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,35:7F1D1D,65:EF4444,100:020617" width="92%"/>
 
