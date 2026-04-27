@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="YOUR_GIF_LINK_HERE"
+  src="https://raw.githubusercontent.com/R4zor08/R4zor08/main/assets/pixel-room.gif"
   alt="Pixel workspace banner"
 />
 
