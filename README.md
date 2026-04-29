@@ -6,14 +6,7 @@
     width="100%"
     alt="Premium animated banner"
   />
-
-  <!-- Main Banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:111827,55:7F1D1D,80:991B1B,100:DC2626&text=Ryan%20Llanto&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Builder%20of%20Scalable%20Platforms&descAlignY=58&descSize=18&animation=fadeIn"
-    width="100%"
-    alt="Ryan Llanto banner"
-  />
-
+  
   <!-- Typing Intro -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=900&lines=Vice+CTO+%7C+Systems+Architect;Building+Scalable+and+Future-Ready+Platforms;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+Innovation"
