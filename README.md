@@ -1,22 +1,64 @@
 <div align="center">
 
+  <!-- Premium Animated Top GIF -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0F172A,65:7F1D1D,100:B91C1C&text=Ryan%20Llanto&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Builder%20of%20Scalable%20Platforms&descAlignY=60&descSize=17"
+    src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"
     width="100%"
+    alt="Premium animated banner"
   />
 
-  <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discipline-System%20Architecture-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-B91C1C?style=for-the-badge"/>
-
-  <h3>⚙️ Tech Stacks</h3>
-
+  <!-- Main Banner -->
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:111827,55:7F1D1D,80:991B1B,100:DC2626&text=Ryan%20Llanto&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Builder%20of%20Scalable%20Platforms&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Ryan Llanto banner"
+  />
+
+  <!-- Typing Intro -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=900&lines=Vice+CTO+%7C+Systems+Architect;Building+Scalable+and+Future-Ready+Platforms;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+Innovation"
+    alt="Typing animation"
   />
 
   <br><br>
+
+  <!-- Premium Badges -->
+  <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discipline-System%20Architecture-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-DC2626?style=for-the-badge&logo=target&logoColor=white"/>
+
+  <br><br>
+
+  <!-- About -->
+  <table>
+    <tr>
+      <td align="center">
+        <h2>⚡ About Me</h2>
+        <p>
+          I design, build, and scale digital platforms with a strong focus on
+          system architecture, clean engineering, automation, and long-term product stability.
+        </p>
+        <p>
+          Driven by purpose, precision, and execution — turning ideas into reliable,
+          scalable, and future-ready systems.
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h2>⚙️ Tech Stacks</h2>
+
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
+    alt="Tech stack icons"
+  />
+
+  <br><br>
+
+  <h2>📊 GitHub Performance</h2>
 
   <picture>
     <source
@@ -24,8 +66,9 @@
       media="(prefers-color-scheme: dark)"
     />
     <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github"
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&title_color=B91C1C&icon_color=B91C1C"
+      alt="GitHub stats"
     />
   </picture>
 
@@ -35,24 +78,38 @@
       media="(prefers-color-scheme: dark)"
     />
     <img
-      height="165"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true"
+      height="170"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&ring=B91C1C&fire=DC2626"
+      alt="GitHub streak"
     />
   </picture>
 
+  <br><br>
+
+  <h2>🔥 Contribution Activity</h2>
+
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <img
       width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true&color=B91C1C&line=DC2626&point=F43F5E"
+      alt="GitHub activity graph"
     />
   </picture>
 
+  <br><br>
+
+  <!-- Premium Footer -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:DC2626,35:7F1D1D,70:111827,100:020617"
+    width="100%"
+    alt="Footer wave"
+  />
+
   <sub>
-    <br>
     Create • Explore • Expand • Conquer
   </sub>
 
