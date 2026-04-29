@@ -1,22 +1,66 @@
 <div align="center">
 
+  <!-- 🔥 Executive Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0F172A,65:7F1D1D,100:B91C1C&text=Ryan%20Llanto&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Builder%20of%20Scalable%20Platforms&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0F172A,70:7F1D1D,100:DC2626&text=Ryan%20Llanto&fontSize=50&fontColor=F8FAFC&fontAlignY=38&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Scalable%20Platform%20Engineer&descAlignY=60&descSize=18"
     width="100%"
   />
 
-  <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discipline-System%20Architecture-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-B91C1C?style=for-the-badge"/>
+  <br>
 
-  <h3>⚙️ Tech Stacks</h3>
+  <!-- 🎯 Identity Badges -->
+  <img src="https://img.shields.io/badge/ROLE-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARCHITECTURE-Distributed%20Systems-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-Scalability%20%26%20Performance-7F1D1D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MINDSET-Engineering%20with%20Intent-DC2626?style=for-the-badge"/>
+
+  <br><br>
+
+  <!-- 🧠 Executive Summary -->
+  <h2>⚡ Executive Profile</h2>
+  <p>
+    Architecting high-performance systems with a focus on scalability, reliability, and long-term impact.
+    <br>
+    Leading engineering direction, optimizing system design, and transforming ideas into production-grade platforms.
+  </p>
+
+  <br>
+
+  <!-- 🏗️ Core Expertise -->
+  <h2>🏗️ Core Expertise</h2>
+
+  <table>
+    <tr>
+      <td>⚙️ System Architecture</td>
+      <td>Designing scalable, modular, and maintainable systems</td>
+    </tr>
+    <tr>
+      <td>🚀 Performance Engineering</td>
+      <td>Optimizing backend, APIs, and infrastructure</td>
+    </tr>
+    <tr>
+      <td>🔐 Secure Systems</td>
+      <td>Authentication, authorization, and data protection</td>
+    </tr>
+    <tr>
+      <td>🌐 Full-Stack Leadership</td>
+      <td>End-to-end development across multiple technologies</td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- 🧰 Tech Stack -->
+  <h2>⚙️ Technology Stack</h2>
 
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
   />
 
   <br><br>
+
+  <!-- 📊 Metrics & Activity -->
+  <h2>📊 Engineering Activity</h2>
 
   <picture>
     <source
@@ -25,7 +69,7 @@
     />
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true"
     />
   </picture>
 
@@ -40,6 +84,8 @@
     />
   </picture>
 
+  <br>
+
   <picture>
     <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185"
@@ -51,9 +97,19 @@
     />
   </picture>
 
-  <sub>
+  <br><br>
+
+  <!-- 🧭 Engineering Philosophy -->
+  <h2>🧭 Engineering Philosophy</h2>
+  <p>
+    Build systems that scale. Design with clarity. Execute with precision.
     <br>
-    CREATE • EXPLORE • EXPAND • CONQUER
-  </sub>
+    Every line of code should serve a purpose — performance, maintainability, or impact.
+  </p>
+
+  <br>
+
+  <!-- 🔥 Signature -->
+  <h3>CREATE • EXPLORE • EXPAND • CONQUER</h3>
 
 </div>
