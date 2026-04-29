@@ -54,7 +54,7 @@
   <br><br>
 
   <h2>🔥 Contribution Activity</h2>
-<br>
+  
   <picture>
     <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185&bg_color=00000000"
