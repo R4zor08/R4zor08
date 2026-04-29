@@ -1,11 +1,10 @@
 <div align="center">
 
-  <!-- Premium Animated Top GIF -->
-  <img
-    src="https://i.pinimg.com/originals/f9/ba/f1/f9baf1ce4103c4f9839952e33661b15b.gif"
-    width="100%"
-    alt="Premium animated banner"
-  />
+<img
+  src="https://i.pinimg.com/originals/f9/ba/f1/f9baf1ce4103c4f9839952e33661b15b.gif"
+  width="100%"
+  alt="Premium animated banner"
+/>
   
   <!-- Typing Intro -->
   <img
@@ -73,5 +72,3 @@
   </sub>
 
 </div>
-
-make this design more premium
