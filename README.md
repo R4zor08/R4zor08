@@ -13,34 +13,11 @@
     alt="Typing animation"
   />
 
-  <br><br>
-
   <!-- Premium Badges -->
   <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discipline-System%20Architecture-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge&logo=serverfault&logoColor=white"/>
   <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-DC2626?style=for-the-badge&logo=target&logoColor=white"/>
-
-  <br><br>
-
-  <!-- About -->
-  <table>
-    <tr>
-      <td align="center">
-        <h2>⚡ About Me</h2>
-        <p>
-          I design, build, and scale digital platforms with a strong focus on
-          system architecture, clean engineering, automation, and long-term product stability.
-        </p>
-        <p>
-          Driven by purpose, precision, and execution — turning ideas into reliable,
-          scalable, and future-ready systems.
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
 
   <h2>⚙️ Tech Stacks</h2>
 
@@ -48,9 +25,7 @@
     src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
     alt="Tech stack icons"
   />
-
-  <br><br>
-
+  
   <h2>📊 GitHub Performance</h2>
 
   <picture>
@@ -92,15 +67,6 @@
       alt="GitHub activity graph"
     />
   </picture>
-
-  <br><br>
-
-  <!-- Premium Footer -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:DC2626,35:7F1D1D,70:111827,100:020617"
-    width="100%"
-    alt="Footer wave"
-  />
 
   <sub>
     Create • Explore • Expand • Conquer
