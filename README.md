@@ -1,99 +1,61 @@
 <div align="center">
 
-  <!-- 🧠 Ultra Premium Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,40:0F172A,75:7F1D1D,100:DC2626&text=Ryan%20Llanto&fontSize=52&fontColor=F8FAFC&stroke=DC2626&strokeWidth=1.2&fontAlignY=40&desc=Vice%20CTO%20%7C%20Systems%20Architect%20%7C%20Scaling%20the%20Future&descAlignY=63&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0F172A,65:7F1D1D,100:B91C1C&text=Ryan%20Llanto&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Vice%20CTO%20•%20Systems%20Architect%20•%20Builder%20of%20Scalable%20Platforms&descAlignY=60&descSize=17"
     width="100%"
   />
 
+  <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discipline-System%20Architecture-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-B91C1C?style=for-the-badge"/>
+
+  <h3>⚙️ Tech Stacks</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
+  />
+
   <br><br>
 
-  <!-- ⚡ Clean Executive Identity -->
-  <img src="https://img.shields.io/badge/Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Architecture-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/High%20Performance-DC2626?style=for-the-badge"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=E2E8F0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github"
+    />
+  </picture>
 
-  <br><br>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true"
+    />
+  </picture>
 
-  <!-- 🧭 Identity Statement -->
-  <h2>⚡ Building Systems That Outlast Trends</h2>
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true"
+    />
+  </picture>
 
-  <p>
-    I design and lead the development of scalable, resilient, and high-performance systems.
+  <sub>
     <br>
-    My focus is not just writing code — but engineering systems that endure, evolve, and scale.
-  </p>
-
-  <br>
-
-  <!-- 🧩 Core Domains -->
-  <h2>🧩 Core Domains</h2>
-
-  <table>
-    <tr>
-      <td><b>Architecture</b></td>
-      <td>Microservices • Modular Monoliths • API-Driven Systems</td>
-    </tr>
-    <tr>
-      <td><b>Scalability</b></td>
-      <td>Horizontal Scaling • Load Optimization • Caching Strategies</td>
-    </tr>
-    <tr>
-      <td><b>Engineering</b></td>
-      <td>Backend Systems • Full-Stack Platforms • Cloud Integration</td>
-    </tr>
-    <tr>
-      <td><b>Leadership</b></td>
-      <td>Technical Direction • Code Quality • System Vision</td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- 🧬 Tech Stack (Refined) -->
-  <h2>⚙️ Tech Ecosystem</h2>
-
-  <img
-    src="https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,django,flask,flutter,mysql,postgres,mongodb,docker,linux,nginx,git,github,postman,vercel&perline=10"
-  />
-
-  <br><br>
-
-  <!-- 📊 Stats Minimal Layout -->
-  <h2>📊 Engineering Footprint</h2>
-
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&theme=transparent&title_color=DC2626&icon_color=DC2626&text_color=CBD5E1"
-  />
-
-  <img
-    height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=DC2626&fire=DC2626"
-  />
-
-  <br><br>
-
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true&color=DC2626&line=DC2626&point=F87171"
-  />
-
-  <br><br>
-
-  <!-- 🧠 Philosophy -->
-  <h2>🧠 Engineering Philosophy</h2>
-
-  <p>
-    Simplicity is power. Scalability is responsibility.
-    <br>
-    Systems should be predictable, observable, and built to evolve.
-  </p>
-
-  <br>
-
-  <!-- 🔥 Signature -->
-  <h3>DESIGN • SCALE • EXECUTE • LEAD</h3>
+    CREATE • EXPLORE • EXPAND • CONQUER
+  </sub>
 
 </div>
+
+Enhance the README Design of this and make it like a Vice CTO design
