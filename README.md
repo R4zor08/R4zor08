@@ -53,9 +53,7 @@
 
   <sub>
     <br>
-    CREATE • EXPLORE • EXPAND • CONQUER
+    Create • Explore • Expand • Conquer
   </sub>
 
 </div>
-
-Enhance the README Design of this and make it like a Vice CTO design
