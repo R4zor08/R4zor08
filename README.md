@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-B91C1C?style=for-the-badge"/>
 
-  <h3>⚙️ Tech Stack</h3>
+  <h3>⚙️ Tech Stacks</h3>
 
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
