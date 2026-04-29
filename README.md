@@ -1,52 +1,95 @@
 <div align="center">
 
-  <!-- Minimal Banner -->
+  <!-- HERO -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:020617,100:111827&text=Ryan%20Llanto&fontSize=42&fontColor=F8FAFC&fontAlignY=55&desc=Vice%20CTO&descAlignY=75&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:020617,75:111827,100:1E293B&text=DEVTHUGS&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Engineering%20Scalable%20Digital%20Systems&descAlignY=60&descSize=18"
     width="100%"
   />
 
   <br><br>
 
-  <!-- Identity -->
-  <h2>Systems Architect</h2>
+  <h1>Ryan Llanto</h1>
+  <h3>Vice CTO • Systems Architect</h3>
+
   <p>
-    Designing scalable platforms with clarity, precision, and intent.
+    Building the backbone of scalable platforms at DevThugs.
+    <br>
+    Focused on architecture, performance, and production-ready systems.
   </p>
 
   <br>
 
-  <!-- Core Focus -->
+  <!-- NAV STYLE LINKS -->
   <p>
-    Architecture • Performance • Reliability • Simplicity
+    <a href="#systems">Systems</a> •
+    <a href="#architecture">Architecture</a> •
+    <a href="#stack">Stack</a> •
+    <a href="#philosophy">Philosophy</a>
   </p>
 
   <br><br>
-
-  <!-- Tech (Minimal) -->
-  <img
-    src="https://skillicons.dev/icons?i=laravel,vue,nodejs,python,flutter,docker,mysql,postgres,nginx&perline=9"
-  />
-
-  <br><br>
-
-  <!-- Stats (Clean) -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&icon_color=FFFFFF&text_color=CBD5F5&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true"
-    />
-  </picture>
-
-  <br><br>
-
-  <!-- Philosophy -->
-  <p>
-    Build less. Build better. Scale with purpose.
-  </p>
 
 </div>
+
+---
+
+## ⚡ What We Build <a name="systems"></a>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 AlgoCart  
+Scalable e-commerce platform  
+Built with structured architecture and secure flows  
+→ Admin / Customer system separation  
+→ Optimized order lifecycle  
+
+</td>
+
+<td width="50%">
+
+### 🤖 DevThugs AI System  
+Hybrid AI chatbot platform  
+→ FAQ + Knowledge Base + AI fallback  
+→ Local LLM integration (Ollama)  
+→ Production-ready API design  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⏱️ TimeGenie  
+AI-powered productivity system  
+→ Smart scheduling engine  
+→ JWT-secured backend  
+→ Modular service architecture  
+
+</td>
+
+<td width="50%">
+
+### 🌍 Windify  
+Real-time weather intelligence platform  
+→ Live forecasting + map visualization  
+→ AI-based recommendations  
+→ Cross-platform (Flutter + APIs)  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Architecture Approach <a name="architecture"></a>
+
+```text
+Controller → Service → Domain Logic → Data Layer
+
+• Thin controllers
+• Scalable service layer
+• Strict validation boundaries
+• Modular + maintainable systems
+• API-first design
