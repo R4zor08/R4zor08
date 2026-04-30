@@ -7,15 +7,11 @@
     alt="Premium animated banner"
   />
 
-  <br>
-
   <!-- Typing Intro -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=900&lines=Vice+CTO+%7C+Systems+Architect;Building+Scalable+and+Future-Ready+Platforms;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+Innovation"
     alt="Typing animation"
   />
-
-  <br><br>
 
   <!-- Premium Badges -->
   <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -23,16 +19,12 @@
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge&logo=serverfault&logoColor=white"/>
   <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-DC2626?style=for-the-badge&logo=target&logoColor=white"/>
 
-  <br><br>
-
   <h2>⚙️ Tech Stacks</h2>
 
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
     alt="Tech stack icons"
   />
-
-  <br><br>
 
   <h2>📊 GitHub Performance</h2>
 
@@ -59,8 +51,6 @@
       alt="GitHub streak"
     />
   </picture>
-
-  <br><br>
 
   <h2>🔥 Contribution Activity</h2>
 
