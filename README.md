@@ -2,10 +2,12 @@
 
   <!-- Premium Animated Top GIF -->
   <img
-    src="./assets/banner.gif"
+    src="https://raw.githubusercontent.com/R4zor08/R4zor08/main/assets/banner.gif"
     width="100%"
     alt="Premium animated banner"
   />
+
+  <br>
 
   <!-- Typing Intro -->
   <img
