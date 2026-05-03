@@ -2,7 +2,7 @@
 
   <!-- Premium Animated Top GIF -->
   <img
-    src="https://raw.githubusercontent.com/R4zor08/R4zor08/main/assets/banner.gif"
+    src="https://raw.githubusercontent.com/R4zor08/R4zor08/main/assets/hype.gif"
     width="100%"
     alt="Premium animated banner"
   />
