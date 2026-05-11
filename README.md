@@ -69,7 +69,7 @@
   <br><br>
 
   <sub>
-    CREATE • EXPLORE • EXPAND • CONQUER
+    Create • Explore • Expand • Conquer
   </sub>
 
 </div>
