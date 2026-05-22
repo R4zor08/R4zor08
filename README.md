@@ -20,19 +20,29 @@
     src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
     alt="Tech stack icons"
   />
-  ## `⟨ GITHUB PERFORMANCE ⟩`
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=E2E8F0&bg_color=00000000" media="(prefers-color-scheme: dark)"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&title_color=B91C1C&icon_color=B91C1C" alt="Stats"/>
-</picture>
-&nbsp;
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000" media="(prefers-color-scheme: dark)"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&ring=B91C1C&fire=DC2626" alt="Streak"/>
-</picture>
-
-<br/>
+  <h2>📊 GitHub Performance</h2>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=E2E8F0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&title_color=B91C1C&icon_color=B91C1C"
+      alt="GitHub stats"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="170"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&ring=B91C1C&fire=DC2626"
+      alt="GitHub streak"
+    />
+  </picture>
   <h2>🔥 Contribution Activity</h2>
   <picture>
     <source
