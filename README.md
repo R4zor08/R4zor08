@@ -57,6 +57,6 @@
   </picture>
   <br><br>
   <sub>
-    CREATE • EXPLORE • EXPAND • CONQUER
+    Create • Explore • Explore • Conquer
   </sub>
 </div>
